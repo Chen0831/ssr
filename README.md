@@ -11,10 +11,10 @@ apt-get install git
 
 
 
-git clone -b manyuser https://github.com/aiastia/123.git
+git clone https://github.com/aiastia/123.git
 
 
-cd ~ 123/shadowsocksr/shadowsocks
+cd ~/123/shadowsocks/shadowsocks
 
 ./run.sh
 
