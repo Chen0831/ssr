@@ -2,7 +2,7 @@
 如果你不小心看见这个项目   
 并且使用了这个项目 记得改密码！！！（*3） 其它你们看着办 
 centos：  
-'''yum install git'''
+    yum install git
 
 
 ubuntu/debian：
