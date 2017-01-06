@@ -27,3 +27,8 @@ chmod 777 run.sh
 ./run.sh
 
 锐速 wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/serverspeeder/master/serverspeeder-all.sh && bash serverspeeder-all.sh   （91云）
+
+
+
+<pre><code>这是一个代码区块。
+</code></pre>
