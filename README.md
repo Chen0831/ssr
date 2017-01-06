@@ -4,29 +4,30 @@
 如果你不小心看见这个项目   
 并且使用了这个项目 记得改密码！！！（*3） 其它你们看着办   
 centos：             
-  <pre><code>  yum install git </code></pre>
+  <pre><code>yum install gi</code></pre>
 
 
-ubuntu/debian：
+ubuntu/debian
 
-'''apt-get install git'''
-
-
+<pre><code>apt-get install gi<code><pre>
 
 
-   git clone https://github.com/aiastia/123.git
+
+
+  <pre><code> git clone https://github.com/aiastia/123.git</code></pre>
 
 
 cd ~/123 
-cd shadowsocks
-cd shadowsocks
+cd shadowsocks  
+cd shadowsocks  
+<pre><code>cd ~/123/shadowsocks/shadowsocks</code></pre>
+<pre><code>chmod 777 run.sh</code></pre>
 
-(~/123/shadowsocks/shadowsocks#)
-chmod 777 run.sh
+<pre><code>./run.sh </code></pre>
 
-./run.sh
+锐速 
 
-锐速 wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/serverspeeder/master/serverspeeder-all.sh && bash serverspeeder-all.sh   （91云）
+<pre><code>wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/serverspeeder/master/serverspeeder-all.sh && bash serverspeeder-all.sh</code></pre>   （91云）
 
 
 
