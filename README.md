@@ -10,7 +10,7 @@ centos：
 ubuntu/debian
 
 <pre><code>apt-get install gi<code><pre>
-
+  
 
 获取文件
 
@@ -18,10 +18,9 @@ ubuntu/debian
 <pre><code> git clone https://github.com/aiastia/123.git</code></pre>
 
 
-cd ~/123 
-cd shadowsocks  
-cd shadowsocks  
 <pre><code>cd ~/123/shadowsocks/shadowsocks</code></pre>
+
+
 <pre><code>chmod 777 run.sh</code></pre>
 
 <pre><code>./run.sh </code></pre>
