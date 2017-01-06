@@ -24,4 +24,7 @@ ubuntu/debian：
 `chmod 777 run.sh`  
  
 运行：  
-`./run.sh`
+`./run.sh`  
+
+
+文件来[breanwa11](https://github.com/breakwa11/shadowsocks-rss"breanwa11") 
