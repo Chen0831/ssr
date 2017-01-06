@@ -12,9 +12,10 @@ ubuntu/debian
 <pre><code>apt-get install gi<code><pre>
 
 
+获取文件
 
 
-  <pre><code> git clone https://github.com/aiastia/123.git</code></pre>
+<pre><code> git clone https://github.com/aiastia/123.git</code></pre>
 
 
 cd ~/123 
