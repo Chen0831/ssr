@@ -24,7 +24,9 @@ ubuntu/debian：
 `chmod 777 run.sh`  
  
 运行：  
-`./run.sh`  
+`./run.sh`    
 
 
-文件来[breanwa11](https://github.com/breakwa11/shadowsocks-rss"breanwa11") 
+快速安装方法：wget -N --no-check-certificate https://raw.githubusercontent.com/aiastia/123/master/install.sh && bash install.sh  
+
+快速运行：run.sh
