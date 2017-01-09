@@ -10,7 +10,7 @@
         "3380":{"obfs":"http_post_compatible"},
         "9345":{}
     },
-    "password": "130858",
+    "password": "q4Gv9ImqX",
     "timeout": 120,
     "udp_timeout": 60,
     "method": "aes-128-cfb",
