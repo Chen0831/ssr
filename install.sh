@@ -7,7 +7,7 @@ PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
 			apt-get -y install git			
 
 
-git clone https://github.com/aiastia/ssr.git 
+git clone https://github.com/aiastia/ssr.git
 
 cd ~/ssr/shadowsocks/shadowsocks
 
