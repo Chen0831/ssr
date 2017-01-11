@@ -13,11 +13,11 @@ ubuntu/debian：
 
 获取文件
 -----
-`git clone https://github.com/aiastia/123.git`  
+`git clone https://github.com/aiastia/ssr.git`  
 
 进入目录：  
 
-`cd ~/123/shadowsocks/shadowsocks`  
+`cd ~/ssr/shadowsocks/shadowsocks`  
 
 赋予权限：  
 
@@ -29,7 +29,7 @@ ubuntu/debian：
 
 快速安装方法：
 
-`wget -N --no-check-certificate https://raw.githubusercontent.com/aiastia/123/master/install.sh && bash install.sh  `
+`wget -N --no-check-certificate https://raw.githubusercontent.com/aiastia/ssr/master/install.sh && bash install.sh  `
 
 快速运行：
 
