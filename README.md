@@ -27,6 +27,10 @@ ubuntu/debian：
 `./run.sh`    
 
 
-快速安装方法：wget -N --no-check-certificate https://raw.githubusercontent.com/aiastia/123/master/install.sh && bash install.sh  
+快速安装方法：
 
-快速运行：run.sh
+`wget -N --no-check-certificate https://raw.githubusercontent.com/aiastia/123/master/install.sh && bash install.sh  `
+
+快速运行：
+
+`run.sh`
