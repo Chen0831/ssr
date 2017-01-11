@@ -7,8 +7,12 @@
      yum install git  
 
 ubuntu/debian：  
+    
+    apt-get update
 
     apt-get install git  
+     
+    
 
 
 获取文件
