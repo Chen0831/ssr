@@ -3,7 +3,7 @@
     "server_ipv6": "::",
     "server_port": 9345,
     "local_address": "127.0.0.1",
-    "local_port": 1080,
+    "local_port": 1081,
     "port_password":{
         "443":{},
         "80":{"obfs":"http_post_compatible"},
