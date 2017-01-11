@@ -31,8 +31,10 @@ ubuntu/debian：
 
 `wget -N --no-check-certificate https://raw.githubusercontent.com/aiastia/ssr/master/install.sh && bash install.sh  `
 
-快速运行：
+快速运行：`wget -N --no-check-certificate  https://raw.githubusercontent.com/aiastia/ssr/master/run.sh && bash install.sh`
 
+
+第二次
 `run.sh`
 
 配置文件 ：
