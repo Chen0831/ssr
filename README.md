@@ -34,3 +34,6 @@ ubuntu/debian：
 快速运行：
 
 `run.sh`
+
+配置文件 ：
+`ssr://MTI3LjAuMC4xOjkzNzk6YXV0aF9zaGExX3YyOmFlcy0xMjgtY2ZiOnRsczEuMl90aWNrZXRfYXV0aDpjVFJIZGpsSmJYRlkvP29iZnNwYXJhbT0mZ3JvdXA9TVE`
