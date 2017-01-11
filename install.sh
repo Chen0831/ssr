@@ -9,7 +9,7 @@ PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
 
 git clone https://github.com/aiastia/ssr.git 
 
-cd ~/123/shadowsocks/shadowsocks
+cd ~/ssr/shadowsocks/shadowsocks
 
 chmod 777 run.sh
 
