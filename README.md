@@ -41,5 +41,12 @@ ubuntu/debian：
 第二次
 `run.sh`
 
+运行子目录内的server.py：
+
+python server.py
+如果要在后台运行：
+
+python server.py -d start
+
 配置文件 ：
 `ssr://MTI3LjAuMC4xOjkzNzk6YXV0aF9zaGExX3YyOmFlcy0xMjgtY2ZiOnRsczEuMl90aWNrZXRfYXV0aDpjVFJIZGpsSmJYRlkvP29iZnNwYXJhbT0mZ3JvdXA9TVE`
