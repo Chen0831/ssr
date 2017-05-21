@@ -16,8 +16,7 @@ chmod 777 run.sh
 
 ./run.sh  
 
-
-Cd
+cd
 
 echo "搞定了，玩的愉快 !"
 
