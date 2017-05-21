@@ -10,11 +10,14 @@ cd /opt
 
 git clone https://github.com/aiastia/ssr.git
 
-cd ~/ssr/shadowsocks/shadowsocks
+cd /ssr/shadowsocks/shadowsocks
 
 chmod 777 run.sh
 
 ./run.sh  
+
+
+Cd
 
 echo "搞定了，玩的愉快 !"
 
